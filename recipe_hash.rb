@@ -1,4 +1,4 @@
-recipe_ingredients
+recipe_ingredients =
 
 
 
