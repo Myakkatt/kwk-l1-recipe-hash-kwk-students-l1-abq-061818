@@ -1,4 +1,6 @@
-recipe_ingredients =
+recipe_ingredients = {
+  almond_flour
+}
 
 
 
