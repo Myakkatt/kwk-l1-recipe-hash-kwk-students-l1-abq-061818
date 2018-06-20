@@ -1,5 +1,6 @@
 recipe_ingredients = {
-  almond_flour => 2_cups
+  almond_flour => 2_cups,
+  gluten_f
 }
 
 
