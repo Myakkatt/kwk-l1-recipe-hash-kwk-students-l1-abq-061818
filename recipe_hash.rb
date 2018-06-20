@@ -1,3 +1,8 @@
+
+
+
+
+
 #code your solutions here
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
